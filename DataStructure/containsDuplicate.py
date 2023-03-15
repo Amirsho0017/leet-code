@@ -6,7 +6,6 @@ class Solution(object):
         """
         return len(set(nums)) != len(nums)
 
-
 # creating an empty list
 nums = []
 
