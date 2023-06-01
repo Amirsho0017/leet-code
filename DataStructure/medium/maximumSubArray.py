@@ -9,7 +9,6 @@ class Solution(object):
         if len_n == 1:
             return nums[0]
 
-        sums = []
         sums.append(nums[0])
         max_sum = nums[0]
 
